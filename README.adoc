@@ -1,0 +1,8 @@
+= Import illustrator eps into lightwave3D ver9.6.
+
+A note for myself.
+
+== Exporting in Illustrator
+
+== Importing into Lightwave3D ver9.6
+
