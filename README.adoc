@@ -2,6 +2,10 @@
 
 A note for myself.
 
+How to use Lightwave3D with the same dimensions as when created in Illustrator.
+
+*) I have confirmed that this is possible with Lightwave3D 2020 using the same settings.
+
 == Exporting in Illustrator
 
 version Illustrator 8
@@ -9,12 +13,17 @@ version Illustrator 8
 == Importing into Lightwave3D ver9.6
 
 === EPSF loader Ver.2.1
+
 Curve Division Level: fine
+
 Convert to: Closed Polygons & PolyLines
+
 Scale: 352.7776
 
 === rotate
+
 x: 90°
 
 === size
+
 0.0001%
